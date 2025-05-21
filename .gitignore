@@ -1,0 +1,41 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de GIMP
+*.xcf
+
+
+# Archivos de sistema o del IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos ocultos de backups
+~$*
+*.old
+
+# Binarios o ejecutables generados
+*.exe
+*.out
+*.bin
+
+# Entornos virtuales o compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Carpetas del sistema operativo
+ehthumbs.db
+Icon?
+
+# Git ignorará cualquier carpeta de prueba si la defines aquí
+# /modulo_*/scripts/pruebas/
