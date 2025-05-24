@@ -34,4 +34,19 @@ Todavía no. Esta fase inicial está orientada a construir una base sólida en c
 
 ---
 
+## 📚 Módulos del curso
+
+| Módulo | Nombre                        | Enlace al repositorio |
+|--------|-------------------------------|------------------------|
+| 0️⃣    | Introducción al entorno       | [Ver módulo](modulo_0_introduccion_entorno/) |
+| 1️⃣    | Fundamentos                   | [Ver módulo](modulo_1_fundamentos/) |
+| 2️⃣    | Programación básica           | [Ver módulo](modulo_2_programacion/) |
+| 3️⃣    | Reversing y análisis básico   | [Ver módulo](modulo_3_reversing/) |
+| 4️⃣    | Redes online y escaneo        | [Ver módulo](modulo_4_redes_online/) |
+| 5️⃣    | Frontend (para entornos web)  | [Ver módulo](modulo_5_frontend/) |
+| 6️⃣    | Unity y Unreal (juegos)       | [Ver módulo](modulo_6_unity_unreal/) |
+| 7️⃣    | Casos prácticos               | [Ver módulo](modulo_7_casos_practicos/) |
+| 8️⃣    | Ética y legalidad             | [Ver módulo](modulo_8_etica/) |
+
+
 > BLACKOUTDEV es una iniciativa 100% ética, centrada en la formación y el estudio. No se apoya ni tolera el uso indebido del conocimiento adquirido.
